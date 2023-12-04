@@ -11,7 +11,7 @@ Steps To Setup the Project:
 
 And Voila !
 
-#Demo
+# Demo
 
 
 https://github.com/vaibhav-305/CareerPathingAI/assets/71219633/9afe79de-bca7-41df-9589-09671e4fa36e
